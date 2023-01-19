@@ -6,6 +6,8 @@
 
 Introduces the use of Leaflets to layer mapping data with customized markers.   
 
+<img src="Screenshot (101).png" width=80%>
+
 <br>
 
 ## Technologies    
